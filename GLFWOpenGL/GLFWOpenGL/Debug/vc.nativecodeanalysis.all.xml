@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gokse\desktop\projects\bilgisayar grafikleri\2.proje\glfwopengl\glfwopengl\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>422</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'h' hides previous declaration at line '11' of 'c:\users\gokse\desktop\projects\bilgisayar grafikleri\2.proje\glfwopengl\glfwopengl\main.cpp'.</DESCRIPTION>
+    <FUNCTION>myReshape</FUNCTION>
+    <DECORATED>?myReshape@@YAXHH@Z</DECORATED>
+    <FUNCLINE>422</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\gokse\desktop\projects\bilgisayar grafikleri\2.proje\glfwopengl\glfwopengl\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
